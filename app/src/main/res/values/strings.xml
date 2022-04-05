@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Books</string>
+    <string name="title_book_list">Книги</string>
+    <string name="title_favorites_list">Избранное</string>
+    <string name="title_image_favourites_list">Обложка</string>
+    <string name="description_list">Описание</string>
+    <string name="title_description_list">Мир, в котором живет Селестина Норт, жесток и беспощаден.  За малейшее нарушение правил, установленных трибуналом, ждет страшное наказание – клеймо. За неверное решение – на виске. За ложь – на языке. За кражу – на руке. За измену трибуналу – на груди.
+    Человек с клеймом становится призраком для общества. Люди на улице сторонятся его. Он больше не может вести нормальную жизнь. Все двери для него отныне закрыты.
+    Идеальная жизнь Селестины Норт – прекрасной ученицы, образцовой дочери и просто красавицы – неожиданно начинает рушиться из-за того, что она помогает старику с клеймом. Теперь ей самой придется предстать перед трибуналом и стать одной из изгоев.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_kleimo">Клеймо</string>
+    <string name="text_author">Сесилия Ахерн</string>
+    <string name="todo">TODO</string>
+</resources>

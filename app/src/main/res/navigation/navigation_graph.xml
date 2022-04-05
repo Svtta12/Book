@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/navigation_book_list">
+
+
+    <fragment
+        android:id="@+id/navigation_book_list"
+        android:name="science.example.mybooks.BooksFragment"
+        android:label="@string/title_book_list"
+        tools:layout="@layout/fragment_books"/>
+    <fragment
+        android:id="@+id/navigation_favourites_list"
+        android:name="science.example.mybooks.FavoritesFragment"
+        android:label="@string/title_favorites_list"
+        tools:layout="@layout/fragment_favorites"/>
+    <fragment
+        android:id="@+id/navigation_image_favourites_list"
+        android:name="science.example.mybooks.ImageFragment"
+        android:label=""
+        tools:layout="@layout/fragment_image"/>
+    <fragment
+        android:id="@+id/navigation_description_list"
+        android:name="science.example.mybooks.DescriptionFragment"
+        android:label="@string/title_description_list"
+        tools:layout="@layout/fragment_description"/>
+
+
+</navigation>
